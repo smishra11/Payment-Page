@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import './App.css';
-import Payment from './Payment/Payment';
+import Payment from './Component/Payment/Payment';
 
 class App extends Component {
   render() {
